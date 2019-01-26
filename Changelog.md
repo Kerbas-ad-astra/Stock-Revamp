@@ -10,7 +10,7 @@ Changes for KSP 1.4:
 * Added Part Variant support to Ven's engine models with optional tankbutts.
 * Added Ven's textures and models as default variants of aerodynamic fairings and Rockomax (size 2) tanks.
 * Added VSRexclude switch -- set "VSRexclude = true" in a part config and VSR will not swap its stock model(s) for Ven's versions.
-* Balanced CryoX and soft fuel tanks for 
+* Balanced CryoX and soft fuel tanks for updates to CryoTanks.
 * Adjusted node positions of several models to fit better and reduce thrust offset.
 * Restored Ven's old aerospike model on top of Porkjet's.
 * Lights no longer illuminate planets from orbit.
