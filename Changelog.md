@@ -38,3 +38,4 @@ Changes for KSP 1.6:
 	* Spaceplane parts are generally left alone.  (The "Wheesley", "Whiplash", and "Panther" engines get some decorative turbomachinery added to the front of them.)
 	* Squad's revamped fuel tanks, adapters, and probe cores are still available as variants (though Ven's models are now the default variant for them).
 	* The revamped Mk1-3 pod and Mk2 Lander Can models are left alone, because their IVAs have changed significantly and no longer fit with Ven's models (and they look nice enough).
+* New parts that fill some gaps in the stock range, including half-sized deployable solar panels, structural girders in multiple sizes and configurations, and a range of Oscar 0.625m fuel tanks.
