@@ -30,7 +30,7 @@ Changes for KSP 1.6:
 	* Marked O-80 "Gale" service engine as deprecated (TechHidden = true), to be removed in a future update.
 * Ven's engine models now overwrite Squad's revamped Poodle, Spark, Terrier, RT-5, and RT-10 engine models.
 	* RT-10-G SRB removed.
-* Adjusted node and fairing positions of Skipper model, so it is now more convenient to use with size 1 parts.
+* Adjusted node and fairing positions of Skipper and Poodle models, to reduce interference with other parts.
 * Adjusted node positions of heat shields (and Ven's Mk1 pod model) to fit better with flat-bottomed parts.
 * Changed the transform names of the vernier thrusters on the Size2MedEngine (RE-D7 "Bollard"), so they can have separate thrusts and FX groups.
 
