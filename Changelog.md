@@ -34,7 +34,12 @@ Changes for KSP 1.6:
 * Adjusted node positions of heat shields (and Ven's Mk1 pod model) to fit better with flat-bottomed parts.
 * Changed the transform names of the vernier thrusters on the Size2MedEngine (RE-D7 "Bollard"), so they can have separate thrusts and FX groups.
 
-"Changelog" for users installing Ven's Stock Revamp on KSP 1.6:
+Changes for KSP 1.7:
+
+* Suppressed Squad's new engine models (24-77, Ant, Spider, RV-105, Place-Anywhere 7, Vernor).
+* Updated USI-LS patch to USI-LS 1.1.
+
+"Changelog" for users installing Ven's Stock Revamp on KSP 1.7:
 
 * Most parts in the base game (i.e. not from Making History or any future expansions) get completely replaced, but there are a handful of exceptions:
 	* Spaceplane parts are generally left alone.  (The "Wheesley", "Whiplash", and "Panther" engines get some decorative turbomachinery added to the front of them.)
