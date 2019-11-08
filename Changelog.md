@@ -40,7 +40,12 @@ Changes for KSP 1.7:
 - Updated USI-LS patch to USI-LS 1.1.
 - Rearranged files so that users can delete all of the new parts (Part Bin) or revamps of stock parts (PathPatches & Squad).
 
-"Changelog" for users installing Ven's Stock Revamp on KSP 1.7:
+Changes for KSP 1.8:
+
+- Adapted to new variants of Mk7 Nose Cone and S3 fuel tanks.
+- Suppressed Squad's new service bay models.
+
+"Changelog" for users installing Ven's Stock Revamp on KSP 1.7+:
 
 - Most parts in the base game (i.e. not from Making History or any future expansions) get completely replaced, but there are a handful of exceptions:
 	- Spaceplane parts are generally left alone.  (The "Wheesley", "Whiplash", and "Panther" engines get some decorative turbomachinery added to the front of them.)

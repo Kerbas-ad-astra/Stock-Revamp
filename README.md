@@ -63,10 +63,12 @@ Please let me know in [**the forum thread**](http://forum.kerbalspaceprogram.com
 	- Adjusted node and fairing positions of Skipper, Poodle, LV-T30, and LV-T45 models, to reduce interference with other parts.
 	- Adjusted node positions of heat shields (and Ven's Mk1 pod model) to fit better with flat-bottomed parts.
 	- Changed the transform names of the vernier thrusters on the Size2MedEngine (RE-D7 "Bollard"), so they can have separate thrusts and FX groups.
-- 1.13.0, 02019 08 XX "Terminal Guidance"
+- 1.13.0, KSP 1.7 development
 	- Suppressed Squad's new engine models in KSP 1.7 (24-77, Ant, Spider, RV-105, Place-Anywhere 7, Vernor).
 	- Updated USI-LS patch to USI-LS 1.1.
 	- Rearranged files so that users can delete all of the new parts (Part Bin) or revamps of stock parts (PathPatches & Squad).
+- 1.14.0, 02019 11 XX "Terminal Guidance"
+	- Adapted to new models in 1.8 (new variants of Mk7 Nose cone and S3 fuel tanks, suppressed Squad's new service bay models)
 
 ## Roadmap
 
