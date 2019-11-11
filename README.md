@@ -67,8 +67,10 @@ Please let me know in [**the forum thread**](http://forum.kerbalspaceprogram.com
 	- Suppressed Squad's new engine models in KSP 1.7 (24-77, Ant, Spider, RV-105, Place-Anywhere 7, Vernor).
 	- Updated USI-LS patch to USI-LS 1.1.
 	- Rearranged files so that users can delete all of the new parts (Part Bin) or revamps of stock parts (PathPatches & Squad).
-- 1.14.0, 02019 11 XX "Terminal Guidance"
-	- Adapted to new models in 1.8 (new variants of Mk7 Nose cone and S3 fuel tanks, suppressed Squad's new service bay models)
+- 1.14.0, 02019 11 11 "Terminal Guidance"
+	- A proper release!
+	- Adapted to new models in 1.8 (new variants of Mk7 Nose cone and S3 fuel tanks, suppressed Squad's new service bay models).
+	- Fixed a bad node location on the 1.25m Heat Shield.
 
 ## Roadmap
 
@@ -78,7 +80,7 @@ I'll keep it ticking along as long as nothing breaks too badly with new KSP upda
 
 The vast majority of the models are by Ven.  EmbersArc/Enceos fixed up the revamped rover wheels, and some configuration fixes were supplied by notquitehalf.  The majority of the configuration fixes were committed by yours truly.
 
-And of course, thanks are owed to Squad for making part models that are worth revamping.  ;)
+And of course, thanks are owed to Squad for making part models that are worth revamping.  :wink:
 
 ## License
 

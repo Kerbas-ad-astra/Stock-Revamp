@@ -42,7 +42,7 @@ Changes for KSP 1.7:
 
 Changes for KSP 1.8:
 
-- Adapted to new variants of Mk7 Nose Cone and S3 fuel tanks.
+- Adapted to new variants of Mk7 Nose Cone and S3 fuel tanks.  Fixed size 1 heat shield node.
 - Suppressed Squad's new service bay models.
 
 "Changelog" for users installing Ven's Stock Revamp on KSP 1.7+:
