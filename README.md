@@ -2,6 +2,10 @@
 
 *This part pack replaces several of the stock textures and models, hopefully making them more beautiful in the process.*
 
+![Left: stock; Right: revamped](https://raw.githubusercontent.com/Kerbas-ad-astra/Stock-Revamp/master/comparison.png)
+
+Left: stock Kerbal X.  Right: Kerbal X with Ven's Stock Revamp.
+
 ## Features
 
 - Most parts in the base game (i.e. not from Making History or any future expansions) get completely replaced, but there are a handful of exceptions:
@@ -14,7 +18,7 @@ A full gallery of parts is available on Imgur: https://imgur.com/a/L8rpP
 
 ## Dependencies
 
-Ven's Stock Revamp depends on [**Module Manager**](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-140-17x-module-manager-403-august-9th-2019-right-to-ludicrous-speed/&tab=comments#comment-720814).
+Ven's Stock Revamp depends on [**Module Manager**](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-140-17x-module-manager-403-august-9th-2019-right-to-ludicrous-speed/&tab=comments#comment-720814), a compatible version of which is bundled in the zip file.
 
 ## FAQ (First Anticipated Question)
 
