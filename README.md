@@ -75,6 +75,8 @@ Please let me know in [**the forum thread**](http://forum.kerbalspaceprogram.com
 	- A proper release!
 	- Adapted to new models in 1.8 (new variants of Mk7 Nose cone and S3 fuel tanks, suppressed Squad's new service bay models).
 	- Fixed a bad node location on the 1.25m Heat Shield.
+- 1.14.1, 02019 11 12 "Mercury Delayed"
+	- Restored models and texture for short Rockomax decoupler and TR-8A radial decoupler.
 
 ## Roadmap
 
