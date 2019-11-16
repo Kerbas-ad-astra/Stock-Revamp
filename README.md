@@ -77,6 +77,8 @@ Please let me know in [**the forum thread**](http://forum.kerbalspaceprogram.com
 	- Fixed a bad node location on the 1.25m Heat Shield.
 - 1.14.1, 02019 11 12 "Mercury Delayed"
 	- Restored models and texture for short Rockomax decoupler and TR-8A radial decoupler.
+- 1.14.2, 02019 11 16 "MoDeL DoEs NoT eXiSt"
+	- Fixed config and restored texture for Inline RCS Block.
 
 ## Roadmap
 
