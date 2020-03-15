@@ -79,6 +79,8 @@ Please let me know in [**the forum thread**](http://forum.kerbalspaceprogram.com
 	- Restored models and texture for short Rockomax decoupler and TR-8A radial decoupler.
 - 1.14.2, 02019 11 16 "MoDeL DoEs NoT eXiSt"
 	- Fixed config and restored texture for Inline RCS Block.
+- 1.15.0, 02020 03 15 "I Prefer The Real Revamp"
+	- Adapted to new models in KSP 1.9 (Skipper, Mainsail, Thumper)
 
 ## Roadmap
 
