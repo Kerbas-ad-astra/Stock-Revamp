@@ -81,6 +81,8 @@ Please let me know in [**the forum thread**](http://forum.kerbalspaceprogram.com
 	- Fixed config and restored texture for Inline RCS Block.
 - 1.15.0, 02020 03 15 "I Prefer The Real Revamp"
 	- Adapted to new models in KSP 1.9 (Skipper, Mainsail, Thumper)
+- 1.15.1, 02020 03 15 "Nattering Nodes of Negativism"
+	- Fixed node orientation on Mk1 pod, and also adjusted node height slightly.
 
 ## Roadmap
 
