@@ -11,7 +11,7 @@ Left: stock Kerbal X.  Right: Kerbal X with Ven's Stock Revamp.
 - Most parts in the base game (i.e. not from Making History or any future expansions) get completely replaced, but there are a handful of exceptions:
 	- Spaceplane parts are generally left alone.  (The "Wheesley", "Whiplash", and "Panther" engines get some decorative turbomachinery added to the front of them.)
 	- Squad's revamped fuel tanks, adapters, and probe cores are still available as variants (though Ven's models are now the default variant for them).
-	- The revamped Mk1-3 pod and Mk2 Lander Can models are left alone, because their IVAs have changed significantly and no longer fit with Ven's models (and they look nice enough).
+	- The revamped Mk2 Lander Can model is left alone, because looks nice enough and has new functionality.
 - New parts are added fill some gaps in the stock range, including half-sized deployable solar panels, structural girders in multiple sizes and configurations, and a range of Oscar 0.625m fuel tanks.
 
 A full gallery of parts is available on Imgur: https://imgur.com/a/L8rpP
@@ -31,7 +31,7 @@ Ven's Stock Revamp depends on [**Module Manager**](https://forum.kerbalspaceprog
 
 From there, just unzip the "VenStockRevamp" folder into your GameData directory.
 
-Please let me know in [**the forum thread**](http://forum.kerbalspaceprogram.com/threads/XXXX) or on [**the GitHub issue tracker**](https://github.com/Kerbas-ad-astra/Stock-Revamp/issues) if you find any issues!
+Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.com/index.php?/topic/189732-19x-vens-stock-revamp-resurrected-v1151-nattering-nodes-of-negativism-02020-mar-15/) or on [**the GitHub issue tracker**](https://github.com/Kerbas-ad-astra/Stock-Revamp/issues) if you find any issues!
 
 ## Version history and changelog
 
@@ -83,6 +83,16 @@ Please let me know in [**the forum thread**](http://forum.kerbalspaceprogram.com
 	- Adapted to new models in KSP 1.9 (Skipper, Mainsail, Thumper)
 - 1.15.1, 02020 03 15 "Nattering Nodes of Negativism"
 	- Fixed node orientation on Mk1 pod, and also adjusted node height slightly.
+- 1.16.0, 02021 01 XX "Not Enough Space In Space"
+	- Updated to new models and variants in KSP 1.10 and 1.11 (fuel line, Thoroughbred, Rockomax X200-16 and X200-32, R-11 'Baguette' External Tank, R-4 'Dumpling' External Tank, R-12 'Doughnut' External Tank, fairings, strut, Advanced Grabbing Unit/Jr., LV-N, Place Anywhere 1, RV-1X, LFB KR-1x2)
+		- Restored Ven's model to Mk1-3 capsule
+	- Renamed "Part Bin" subfolder to "PartBin", to accommodate Module Manager patches
+	- Localized SpaceX-style landing leg (missed this one back in VSR 1.10)
+	- Fixed Nose Cone Mk7 patch.
+	- Fixed some config errors in LV-T15 "Dachsund" and LV-900 "Beagle" engines.
+	- Fixed loading errors from IVA props.  (Gated RPM modules behind "NEEDS" blocks, deleted unfinished models.)
+	- Restored a few missing textures.
+	- Fixed RT-20 "Sickle" model and adjusted node location accordingly.
 
 ## Roadmap
 
