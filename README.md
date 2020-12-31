@@ -11,7 +11,7 @@ Left: stock Kerbal X.  Right: Kerbal X with Ven's Stock Revamp.
 - Most parts in the base game (i.e. not from Making History or any future expansions) get completely replaced, but there are a handful of exceptions:
 	- Spaceplane parts are generally left alone.  (The "Wheesley", "Whiplash", and "Panther" engines get some decorative turbomachinery added to the front of them.)
 	- Squad's revamped fuel tanks, adapters, and probe cores are still available as variants (though Ven's models are now the default variant for them).
-	- The revamped Mk2 Lander Can model is left alone, because looks nice enough and has new functionality.
+	- Some of Squad's revamped thrusters and pods are left alone, since they have new functionality and look nice enough.
 - New parts are added fill some gaps in the stock range, including half-sized deployable solar panels, structural girders in multiple sizes and configurations, and a range of Oscar 0.625m fuel tanks.
 
 A full gallery of parts is available on Imgur: https://imgur.com/a/L8rpP
@@ -84,8 +84,8 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
 - 1.15.1, 02020 03 15 "Nattering Nodes of Negativism"
 	- Fixed node orientation on Mk1 pod, and also adjusted node height slightly.
 - 1.16.0, 02021 01 XX "Not Enough Space In Space"
-	- Updated to new models and variants in KSP 1.10 and 1.11 (fuel line, Thoroughbred, Rockomax X200-16 and X200-32, R-11 'Baguette' External Tank, R-4 'Dumpling' External Tank, R-12 'Doughnut' External Tank, fairings, strut, Advanced Grabbing Unit/Jr., LV-N, Place Anywhere 1, RV-1X, LFB KR-1x2)
-		- Restored Ven's model to Mk1-3 capsule
+	- Updated to new models and variants in KSP 1.10 and 1.11 (Rockomax X200-16 and -32, blinky lights)
+		- No longer revamping RV-105 RCS thruster (Squad's revamp is fine enough, and Ven's model isn't set up to be flexible with variants)
 	- Renamed "Part Bin" subfolder to "PartBin", to accommodate Module Manager patches
 	- Localized SpaceX-style landing leg (missed this one back in VSR 1.10)
 	- Fixed Nose Cone Mk7 patch.
@@ -93,10 +93,13 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
 	- Fixed loading errors from IVA props.  (Gated RPM modules behind "NEEDS" blocks, deleted unfinished models.)
 	- Restored a few missing textures.
 	- Fixed RT-20 "Sickle" model and adjusted node location accordingly.
+	- Set up inventory configs for Ven's new parts.
 
 ## Roadmap
 
 I'll keep it ticking along as long as nothing breaks too badly with new KSP updates.
+
+I'd like to make a white alternate texture for the strut and fuel duct (like stock), but so far I haven't made anything that looks good.
 
 ## Credits
 
