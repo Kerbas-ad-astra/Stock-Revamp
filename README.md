@@ -83,9 +83,11 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
 	- Adapted to new models in KSP 1.9 (Skipper, Mainsail, Thumper)
 - 1.15.1, 02020 03 15 "Nattering Nodes of Negativism"
 	- Fixed node orientation on Mk1 pod, and also adjusted node height slightly.
-- 1.16.0, 02021 01 XX "Not Enough Space In Space"
-	- Updated to new models and variants in KSP 1.10 and 1.11 (Rockomax X200-16 and -32, blinky lights)
-		- No longer revamping RV-105 RCS thruster (Squad's revamp is fine enough, and Ven's model isn't set up to be flexible with variants)
+- 1.16.0, 02021 09 05 "Too Much Space In Space"
+	- Updated to new models and variants in KSP 1.10, 1.11, and 1.12.
+		- No longer revamping RV-105 RCS thruster (Squad's revamps are fine enough, and Ven's model isn't set up to be flexible with variants)
+		- RT-1 "Cricket", RT-2 "Grasshopper", and RockoMAX models (from Ven's new parts) are now also applied to the stock FM1 "Mite", F3S0 "Shrimp", and S2-33 "Clydesdale" respectively.  The RT-1, RT-2, and RockoMAX are now marked as 'TechHidden'.
+		- Ven's Mk 5 Strip Light is also now 'TechHidden' because there's a better striplight (that actually emits light!) in the stock game.
 	- Renamed "Part Bin" subfolder to "PartBin", to accommodate Module Manager patches
 	- Localized SpaceX-style landing leg (missed this one back in VSR 1.10)
 	- Fixed Nose Cone Mk7 patch.
@@ -93,13 +95,13 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
 	- Fixed loading errors from IVA props.  (Gated RPM modules behind "NEEDS" blocks, deleted unfinished models.)
 	- Restored a few missing textures.
 	- Fixed RT-20 "Sickle" model and adjusted node location accordingly.
+	- Fixed model location on BACC Thumper.
 	- Set up inventory configs for Ven's new parts.
+	- End of line.
 
 ## Roadmap
 
-I'll keep it ticking along as long as nothing breaks too badly with new KSP updates.
-
-I'd like to make a white alternate texture for the strut and fuel duct (like stock), but so far I haven't made anything that looks good.
+One of these days, I'd like to make a white alternate texture for Ven's strut and fuel duct (like stock), but so far I haven't made anything that looks good.
 
 ## Credits
 
@@ -109,4 +111,4 @@ And of course, thanks are owed to Squad for making part models that are worth re
 
 ## License
 
-Ven's Stock Revamp (v1.10+) is copyright 2019 Kerbas_ad_astra.  Part configuration files, Module Manager patches, models, and textures are released under the [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license (or any later version).
+Ven's Stock Revamp (v1.10+) is copyright 2021 Kerbas_ad_astra.  Part configuration files, Module Manager patches, models, and textures are released under the [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license (or any later version).
