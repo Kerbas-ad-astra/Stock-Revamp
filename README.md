@@ -98,6 +98,8 @@ Please let me know in [**the forum thread**](https://forum.kerbalspaceprogram.co
 	- Fixed model location on BACC Thumper.
 	- Set up inventory configs for Ven's new parts.
 	- End of line.
+- 1.16.1, 02023 04 XX "Meinem Weg zum Horizont"
+	- Fixed bad interaction between KerBalloons patch and ReStock.
 
 ## Roadmap
 
